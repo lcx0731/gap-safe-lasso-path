@@ -1,0 +1,2852 @@
+[
+  {
+    "rho": 0.2,
+    "alpha_fraction": 0.025,
+    "target_gap": 5.5053908676831164e-09,
+    "safe": [
+      {
+        "sweep": 0,
+        "gap_bound": 0.015911745904867356,
+        "primal": 0.5751953734849049,
+        "retained": 300,
+        "coordinate_visits": 0,
+        "kkt_violation": 0.018066538922593287
+      },
+      {
+        "sweep": 1,
+        "gap_bound": 0.09986208614495715,
+        "primal": 0.5693220648006693,
+        "retained": 300,
+        "coordinate_visits": 300,
+        "kkt_violation": 0.013003743723000297
+      },
+      {
+        "sweep": 2,
+        "gap_bound": 0.03502148414426766,
+        "primal": 0.5685438002076789,
+        "retained": 300,
+        "coordinate_visits": 600,
+        "kkt_violation": 0.003512196567861406
+      },
+      {
+        "sweep": 3,
+        "gap_bound": 0.014115261844245814,
+        "primal": 0.5684400375215486,
+        "retained": 300,
+        "coordinate_visits": 900,
+        "kkt_violation": 0.0019319846712934213
+      },
+      {
+        "sweep": 4,
+        "gap_bound": 0.00853815692319221,
+        "primal": 0.5684165790558744,
+        "retained": 300,
+        "coordinate_visits": 1200,
+        "kkt_violation": 0.001173184987269267
+      },
+      {
+        "sweep": 5,
+        "gap_bound": 0.005079237407204002,
+        "primal": 0.5684096643002852,
+        "retained": 300,
+        "coordinate_visits": 1500,
+        "kkt_violation": 0.0006036396444872583
+      },
+      {
+        "sweep": 6,
+        "gap_bound": 0.0029536941199180097,
+        "primal": 0.5684073320047822,
+        "retained": 300,
+        "coordinate_visits": 1800,
+        "kkt_violation": 0.00039241613571120576
+      },
+      {
+        "sweep": 7,
+        "gap_bound": 0.0019332376408781118,
+        "primal": 0.5684065357598191,
+        "retained": 300,
+        "coordinate_visits": 2100,
+        "kkt_violation": 0.00023606564315842987
+      },
+      {
+        "sweep": 8,
+        "gap_bound": 0.0011153735809743218,
+        "primal": 0.5684062558380131,
+        "retained": 300,
+        "coordinate_visits": 2400,
+        "kkt_violation": 0.00014039966606195498
+      },
+      {
+        "sweep": 9,
+        "gap_bound": 0.0006494000789660461,
+        "primal": 0.5684061574310255,
+        "retained": 237,
+        "coordinate_visits": 2700,
+        "kkt_violation": 8.128365832990592e-05
+      },
+      {
+        "sweep": 10,
+        "gap_bound": 0.00039194856201268675,
+        "primal": 0.5684061232551534,
+        "retained": 186,
+        "coordinate_visits": 2937,
+        "kkt_violation": 4.645751987465002e-05
+      },
+      {
+        "sweep": 11,
+        "gap_bound": 0.00023223095300012805,
+        "primal": 0.5684061116335667,
+        "retained": 145,
+        "coordinate_visits": 3123,
+        "kkt_violation": 2.6286647903654703e-05
+      },
+      {
+        "sweep": 12,
+        "gap_bound": 0.0001355879819727102,
+        "primal": 0.5684061077637041,
+        "retained": 129,
+        "coordinate_visits": 3268,
+        "kkt_violation": 1.4766535012235293e-05
+      },
+      {
+        "sweep": 13,
+        "gap_bound": 7.82818173713044e-05,
+        "primal": 0.568406106497742,
+        "retained": 109,
+        "coordinate_visits": 3397,
+        "kkt_violation": 8.256333474856992e-06
+      },
+      {
+        "sweep": 14,
+        "gap_bound": 4.481930377093687e-05,
+        "primal": 0.5684061060891953,
+        "retained": 101,
+        "coordinate_visits": 3506,
+        "kkt_violation": 4.604611514455459e-06
+      },
+      {
+        "sweep": 15,
+        "gap_bound": 2.5472982949742145e-05,
+        "primal": 0.5684061059589542,
+        "retained": 98,
+        "coordinate_visits": 3607,
+        "kkt_violation": 2.5595239343187415e-06
+      },
+      {
+        "sweep": 16,
+        "gap_bound": 1.4274434389855518e-05,
+        "primal": 0.5684061059188172,
+        "retained": 89,
+        "coordinate_visits": 3705,
+        "kkt_violation": 1.397676811655535e-06
+      },
+      {
+        "sweep": 17,
+        "gap_bound": 8.001788531208e-06,
+        "primal": 0.5684061059059957,
+        "retained": 81,
+        "coordinate_visits": 3794,
+        "kkt_violation": 7.981366957621194e-07
+      },
+      {
+        "sweep": 18,
+        "gap_bound": 4.482686912531937e-06,
+        "primal": 0.5684061059019125,
+        "retained": 74,
+        "coordinate_visits": 3875,
+        "kkt_violation": 4.5428265704056114e-07
+      },
+      {
+        "sweep": 19,
+        "gap_bound": 2.514693260486673e-06,
+        "primal": 0.5684061059006189,
+        "retained": 70,
+        "coordinate_visits": 3949,
+        "kkt_violation": 2.5705999624758835e-07
+      },
+      {
+        "sweep": 20,
+        "gap_bound": 1.4102132059976566e-06,
+        "primal": 0.56840610590021,
+        "retained": 70,
+        "coordinate_visits": 4019,
+        "kkt_violation": 1.449452162946563e-07
+      },
+      {
+        "sweep": 21,
+        "gap_bound": 7.903639936497027e-07,
+        "primal": 0.5684061059000809,
+        "retained": 68,
+        "coordinate_visits": 4089,
+        "kkt_violation": 8.16426144745197e-08
+      },
+      {
+        "sweep": 22,
+        "gap_bound": 4.428184327773546e-07,
+        "primal": 0.5684061059000401,
+        "retained": 68,
+        "coordinate_visits": 4157,
+        "kkt_violation": 4.599213625916532e-08
+      },
+      {
+        "sweep": 23,
+        "gap_bound": 2.4812872716233754e-07,
+        "primal": 0.5684061059000274,
+        "retained": 67,
+        "coordinate_visits": 4225,
+        "kkt_violation": 2.591490544379127e-08
+      },
+      {
+        "sweep": 24,
+        "gap_bound": 1.391023285575514e-07,
+        "primal": 0.5684061059000233,
+        "retained": 66,
+        "coordinate_visits": 4292,
+        "kkt_violation": 1.4601555776982966e-08
+      },
+      {
+        "sweep": 25,
+        "gap_bound": 7.803130201651259e-08,
+        "primal": 0.5684061059000219,
+        "retained": 65,
+        "coordinate_visits": 4358,
+        "kkt_violation": 8.225005648787587e-09
+      },
+      {
+        "sweep": 26,
+        "gap_bound": 4.380175395946989e-08,
+        "primal": 0.5684061059000216,
+        "retained": 64,
+        "coordinate_visits": 4423,
+        "kkt_violation": 4.631528854881495e-09
+      },
+      {
+        "sweep": 27,
+        "gap_bound": 2.460309615023982e-08,
+        "primal": 0.5684061059000215,
+        "retained": 64,
+        "coordinate_visits": 4487,
+        "kkt_violation": 2.60718373279456e-09
+      },
+      {
+        "sweep": 28,
+        "gap_bound": 1.3827898333495583e-08,
+        "primal": 0.5684061059000214,
+        "retained": 64,
+        "coordinate_visits": 4551,
+        "kkt_violation": 1.4672624018552405e-09
+      },
+      {
+        "sweep": 29,
+        "gap_bound": 7.776937957142447e-09,
+        "primal": 0.5684061059000214,
+        "retained": 63,
+        "coordinate_visits": 4615,
+        "kkt_violation": 8.255980690763387e-10
+      },
+      {
+        "sweep": 30,
+        "gap_bound": 4.3773319337841e-09,
+        "primal": 0.5684061059000214,
+        "retained": 63,
+        "coordinate_visits": 4678,
+        "kkt_violation": 4.6450229079786354e-10
+      }
+    ],
+    "plain": [
+      {
+        "sweep": 0,
+        "gap_bound": 0.015911745904867356,
+        "primal": 0.5751953734849049,
+        "retained": 300,
+        "coordinate_visits": 0,
+        "kkt_violation": 0.018066538922593287
+      },
+      {
+        "sweep": 1,
+        "gap_bound": 0.09986208614495715,
+        "primal": 0.5693220648006693,
+        "retained": 300,
+        "coordinate_visits": 300,
+        "kkt_violation": 0.013003743723000297
+      },
+      {
+        "sweep": 2,
+        "gap_bound": 0.03502148414426766,
+        "primal": 0.5685438002076789,
+        "retained": 300,
+        "coordinate_visits": 600,
+        "kkt_violation": 0.003512196567861406
+      },
+      {
+        "sweep": 3,
+        "gap_bound": 0.014115261844245814,
+        "primal": 0.5684400375215486,
+        "retained": 300,
+        "coordinate_visits": 900,
+        "kkt_violation": 0.0019319846712934213
+      },
+      {
+        "sweep": 4,
+        "gap_bound": 0.00853815692319221,
+        "primal": 0.5684165790558744,
+        "retained": 300,
+        "coordinate_visits": 1200,
+        "kkt_violation": 0.001173184987269267
+      },
+      {
+        "sweep": 5,
+        "gap_bound": 0.005079237407204002,
+        "primal": 0.5684096643002852,
+        "retained": 300,
+        "coordinate_visits": 1500,
+        "kkt_violation": 0.0006036396444872583
+      },
+      {
+        "sweep": 6,
+        "gap_bound": 0.0029536941199180097,
+        "primal": 0.5684073320047822,
+        "retained": 300,
+        "coordinate_visits": 1800,
+        "kkt_violation": 0.00039241613571120576
+      },
+      {
+        "sweep": 7,
+        "gap_bound": 0.0019332376408781118,
+        "primal": 0.5684065357598191,
+        "retained": 300,
+        "coordinate_visits": 2100,
+        "kkt_violation": 0.00023606564315842987
+      },
+      {
+        "sweep": 8,
+        "gap_bound": 0.0011153735809743218,
+        "primal": 0.5684062558380131,
+        "retained": 300,
+        "coordinate_visits": 2400,
+        "kkt_violation": 0.00014039966606195498
+      },
+      {
+        "sweep": 9,
+        "gap_bound": 0.0006494000789660461,
+        "primal": 0.5684061574310255,
+        "retained": 300,
+        "coordinate_visits": 2700,
+        "kkt_violation": 8.128365832990592e-05
+      },
+      {
+        "sweep": 10,
+        "gap_bound": 0.00039194856201268675,
+        "primal": 0.5684061232551534,
+        "retained": 300,
+        "coordinate_visits": 3000,
+        "kkt_violation": 4.645751987465002e-05
+      },
+      {
+        "sweep": 11,
+        "gap_bound": 0.00023223095300012805,
+        "primal": 0.5684061116335667,
+        "retained": 300,
+        "coordinate_visits": 3300,
+        "kkt_violation": 2.6286647903654703e-05
+      },
+      {
+        "sweep": 12,
+        "gap_bound": 0.0001355879819727102,
+        "primal": 0.5684061077637041,
+        "retained": 300,
+        "coordinate_visits": 3600,
+        "kkt_violation": 1.4766535012235293e-05
+      },
+      {
+        "sweep": 13,
+        "gap_bound": 7.82818173713044e-05,
+        "primal": 0.568406106497742,
+        "retained": 300,
+        "coordinate_visits": 3900,
+        "kkt_violation": 8.256333474856992e-06
+      },
+      {
+        "sweep": 14,
+        "gap_bound": 4.481930377093687e-05,
+        "primal": 0.5684061060891953,
+        "retained": 300,
+        "coordinate_visits": 4200,
+        "kkt_violation": 4.604611514455459e-06
+      },
+      {
+        "sweep": 15,
+        "gap_bound": 2.5472982949742145e-05,
+        "primal": 0.5684061059589542,
+        "retained": 300,
+        "coordinate_visits": 4500,
+        "kkt_violation": 2.5595239343187415e-06
+      },
+      {
+        "sweep": 16,
+        "gap_bound": 1.4274434389855518e-05,
+        "primal": 0.5684061059188172,
+        "retained": 300,
+        "coordinate_visits": 4800,
+        "kkt_violation": 1.397676811655535e-06
+      },
+      {
+        "sweep": 17,
+        "gap_bound": 8.001788531208e-06,
+        "primal": 0.5684061059059957,
+        "retained": 300,
+        "coordinate_visits": 5100,
+        "kkt_violation": 7.981366957621194e-07
+      },
+      {
+        "sweep": 18,
+        "gap_bound": 4.482686912531937e-06,
+        "primal": 0.5684061059019125,
+        "retained": 300,
+        "coordinate_visits": 5400,
+        "kkt_violation": 4.5428265704056114e-07
+      },
+      {
+        "sweep": 19,
+        "gap_bound": 2.514693260486673e-06,
+        "primal": 0.5684061059006189,
+        "retained": 300,
+        "coordinate_visits": 5700,
+        "kkt_violation": 2.5705999624758835e-07
+      },
+      {
+        "sweep": 20,
+        "gap_bound": 1.4102132059976566e-06,
+        "primal": 0.56840610590021,
+        "retained": 300,
+        "coordinate_visits": 6000,
+        "kkt_violation": 1.449452162946563e-07
+      },
+      {
+        "sweep": 21,
+        "gap_bound": 7.903639936497027e-07,
+        "primal": 0.5684061059000809,
+        "retained": 300,
+        "coordinate_visits": 6300,
+        "kkt_violation": 8.16426144745197e-08
+      },
+      {
+        "sweep": 22,
+        "gap_bound": 4.428184327773546e-07,
+        "primal": 0.5684061059000401,
+        "retained": 300,
+        "coordinate_visits": 6600,
+        "kkt_violation": 4.599213625916532e-08
+      },
+      {
+        "sweep": 23,
+        "gap_bound": 2.4812872716233754e-07,
+        "primal": 0.5684061059000274,
+        "retained": 300,
+        "coordinate_visits": 6900,
+        "kkt_violation": 2.591490544379127e-08
+      },
+      {
+        "sweep": 24,
+        "gap_bound": 1.391023285575514e-07,
+        "primal": 0.5684061059000233,
+        "retained": 300,
+        "coordinate_visits": 7200,
+        "kkt_violation": 1.4601555776982966e-08
+      },
+      {
+        "sweep": 25,
+        "gap_bound": 7.803130201651259e-08,
+        "primal": 0.5684061059000219,
+        "retained": 300,
+        "coordinate_visits": 7500,
+        "kkt_violation": 8.225005648787587e-09
+      },
+      {
+        "sweep": 26,
+        "gap_bound": 4.380175395946989e-08,
+        "primal": 0.5684061059000216,
+        "retained": 300,
+        "coordinate_visits": 7800,
+        "kkt_violation": 4.631528854881495e-09
+      },
+      {
+        "sweep": 27,
+        "gap_bound": 2.460309615023982e-08,
+        "primal": 0.5684061059000215,
+        "retained": 300,
+        "coordinate_visits": 8100,
+        "kkt_violation": 2.60718373279456e-09
+      },
+      {
+        "sweep": 28,
+        "gap_bound": 1.3827898333495583e-08,
+        "primal": 0.5684061059000214,
+        "retained": 300,
+        "coordinate_visits": 8400,
+        "kkt_violation": 1.4672624018552405e-09
+      },
+      {
+        "sweep": 29,
+        "gap_bound": 7.776937957142447e-09,
+        "primal": 0.5684061059000214,
+        "retained": 300,
+        "coordinate_visits": 8700,
+        "kkt_violation": 8.255980690763387e-10
+      },
+      {
+        "sweep": 30,
+        "gap_bound": 4.3773319337841e-09,
+        "primal": 0.5684061059000214,
+        "retained": 300,
+        "coordinate_visits": 9000,
+        "kkt_violation": 4.6450229079786354e-10
+      }
+    ]
+  },
+  {
+    "rho": 0.9,
+    "alpha_fraction": 0.025,
+    "target_gap": 6.17346122524382e-09,
+    "safe": [
+      {
+        "sweep": 0,
+        "gap_bound": 0.017488268631352204,
+        "primal": 0.6255818060960596,
+        "retained": 300,
+        "coordinate_visits": 0,
+        "kkt_violation": 0.020472945898836255
+      },
+      {
+        "sweep": 1,
+        "gap_bound": 0.06015147721142553,
+        "primal": 0.6231116531606701,
+        "retained": 300,
+        "coordinate_visits": 300,
+        "kkt_violation": 0.01828123171134624
+      },
+      {
+        "sweep": 2,
+        "gap_bound": 0.021740423735963927,
+        "primal": 0.6228993904163053,
+        "retained": 300,
+        "coordinate_visits": 600,
+        "kkt_violation": 0.006627310996017675
+      },
+      {
+        "sweep": 3,
+        "gap_bound": 0.011943731446347809,
+        "primal": 0.6228286009174155,
+        "retained": 300,
+        "coordinate_visits": 900,
+        "kkt_violation": 0.005741356972201274
+      },
+      {
+        "sweep": 4,
+        "gap_bound": 0.011032703436263867,
+        "primal": 0.6227993307549027,
+        "retained": 300,
+        "coordinate_visits": 1200,
+        "kkt_violation": 0.003347301622246765
+      },
+      {
+        "sweep": 5,
+        "gap_bound": 0.00972341933873315,
+        "primal": 0.6227839647631124,
+        "retained": 300,
+        "coordinate_visits": 1500,
+        "kkt_violation": 0.002976813834728101
+      },
+      {
+        "sweep": 6,
+        "gap_bound": 0.008501045733795672,
+        "primal": 0.622772156000909,
+        "retained": 300,
+        "coordinate_visits": 1800,
+        "kkt_violation": 0.002592122475525982
+      },
+      {
+        "sweep": 7,
+        "gap_bound": 0.007212134406513656,
+        "primal": 0.6227643763512629,
+        "retained": 300,
+        "coordinate_visits": 2100,
+        "kkt_violation": 0.0012054764634886958
+      },
+      {
+        "sweep": 8,
+        "gap_bound": 0.005921017712457802,
+        "primal": 0.6227608688438481,
+        "retained": 300,
+        "coordinate_visits": 2400,
+        "kkt_violation": 0.001038357769871115
+      },
+      {
+        "sweep": 9,
+        "gap_bound": 0.004871149764598954,
+        "primal": 0.6227581871718717,
+        "retained": 300,
+        "coordinate_visits": 2700,
+        "kkt_violation": 0.001017372119762855
+      },
+      {
+        "sweep": 10,
+        "gap_bound": 0.003960270482490667,
+        "primal": 0.6227560963970202,
+        "retained": 300,
+        "coordinate_visits": 3000,
+        "kkt_violation": 0.0009869288709319843
+      },
+      {
+        "sweep": 11,
+        "gap_bound": 0.0031833667486532036,
+        "primal": 0.6227544542364488,
+        "retained": 300,
+        "coordinate_visits": 3300,
+        "kkt_violation": 0.0009468531609275743
+      },
+      {
+        "sweep": 12,
+        "gap_bound": 0.0025259236983305525,
+        "primal": 0.6227531569543348,
+        "retained": 300,
+        "coordinate_visits": 3600,
+        "kkt_violation": 0.0008994119987733584
+      },
+      {
+        "sweep": 13,
+        "gap_bound": 0.002207113587702045,
+        "primal": 0.6227521275076304,
+        "retained": 300,
+        "coordinate_visits": 3900,
+        "kkt_violation": 0.0008466343075465843
+      },
+      {
+        "sweep": 14,
+        "gap_bound": 0.001918289504550117,
+        "primal": 0.6227513078001574,
+        "retained": 300,
+        "coordinate_visits": 4200,
+        "kkt_violation": 0.0007902879931803233
+      },
+      {
+        "sweep": 15,
+        "gap_bound": 0.0016579031687926906,
+        "primal": 0.6227506534395431,
+        "retained": 300,
+        "coordinate_visits": 4500,
+        "kkt_violation": 0.0007318819299693413
+      },
+      {
+        "sweep": 16,
+        "gap_bound": 0.0014242550600387924,
+        "primal": 0.6227501301252865,
+        "retained": 300,
+        "coordinate_visits": 4800,
+        "kkt_violation": 0.000672686680935751
+      },
+      {
+        "sweep": 17,
+        "gap_bound": 0.001215556845922598,
+        "primal": 0.6227497110996144,
+        "retained": 287,
+        "coordinate_visits": 5100,
+        "kkt_violation": 0.0006137573160820697
+      },
+      {
+        "sweep": 18,
+        "gap_bound": 0.0010299845225209285,
+        "primal": 0.6227493753199987,
+        "retained": 270,
+        "coordinate_visits": 5387,
+        "kkt_violation": 0.0005559556974837204
+      },
+      {
+        "sweep": 19,
+        "gap_bound": 0.0008657199644876953,
+        "primal": 0.6227491061296595,
+        "retained": 245,
+        "coordinate_visits": 5657,
+        "kkt_violation": 0.0004999717995458272
+      },
+      {
+        "sweep": 20,
+        "gap_bound": 0.0007209823178317407,
+        "primal": 0.6227488902758506,
+        "retained": 221,
+        "coordinate_visits": 5902,
+        "kkt_violation": 0.00044634386042171487
+      },
+      {
+        "sweep": 21,
+        "gap_bound": 0.0005940510258912982,
+        "primal": 0.6227487171740845,
+        "retained": 201,
+        "coordinate_visits": 6123,
+        "kkt_violation": 0.0003954772538678278
+      },
+      {
+        "sweep": 22,
+        "gap_bound": 0.0004972574219797798,
+        "primal": 0.6227485783486681,
+        "retained": 186,
+        "coordinate_visits": 6324,
+        "kkt_violation": 0.0003476620228861915
+      },
+      {
+        "sweep": 23,
+        "gap_bound": 0.00045166793067200365,
+        "primal": 0.6227484670015164,
+        "retained": 175,
+        "coordinate_visits": 6510,
+        "kkt_violation": 0.0003030890490527127
+      },
+      {
+        "sweep": 24,
+        "gap_bound": 0.0004084610299787263,
+        "primal": 0.6227483776757804,
+        "retained": 167,
+        "coordinate_visits": 6685,
+        "kkt_violation": 0.0002618648560764672
+      },
+      {
+        "sweep": 25,
+        "gap_bound": 0.0003675085004901921,
+        "primal": 0.6227483059906738,
+        "retained": 151,
+        "coordinate_visits": 6852,
+        "kkt_violation": 0.00022402506614670192
+      },
+      {
+        "sweep": 26,
+        "gap_bound": 0.00032875321187757987,
+        "primal": 0.6227482484306296,
+        "retained": 141,
+        "coordinate_visits": 7003,
+        "kkt_violation": 0.00018954654405155258
+      },
+      {
+        "sweep": 27,
+        "gap_bound": 0.00029218204933436574,
+        "primal": 0.6227482021765258,
+        "retained": 131,
+        "coordinate_visits": 7144,
+        "kkt_violation": 0.0001583582772569092
+      },
+      {
+        "sweep": 28,
+        "gap_bound": 0.00025780526805372717,
+        "primal": 0.6227481649699285,
+        "retained": 124,
+        "coordinate_visits": 7275,
+        "kkt_violation": 0.00013035105049506723
+      },
+      {
+        "sweep": 29,
+        "gap_bound": 0.00024801051683975443,
+        "primal": 0.6227481350035421,
+        "retained": 122,
+        "coordinate_visits": 7399,
+        "kkt_violation": 0.00010538598117144915
+      },
+      {
+        "sweep": 30,
+        "gap_bound": 0.00028483691854229914,
+        "primal": 0.6227481108326589,
+        "retained": 122,
+        "coordinate_visits": 7521,
+        "kkt_violation": 9.071895717999157e-05
+      },
+      {
+        "sweep": 31,
+        "gap_bound": 0.0003109963824224668,
+        "primal": 0.6227480913035462,
+        "retained": 122,
+        "coordinate_visits": 7643,
+        "kkt_violation": 7.957697133322006e-05
+      },
+      {
+        "sweep": 32,
+        "gap_bound": 0.0003279046281741496,
+        "primal": 0.6227480754955642,
+        "retained": 122,
+        "coordinate_visits": 7765,
+        "kkt_violation": 6.921580253890086e-05
+      },
+      {
+        "sweep": 33,
+        "gap_bound": 0.00033688558092838784,
+        "primal": 0.6227480626744459,
+        "retained": 122,
+        "coordinate_visits": 7887,
+        "kkt_violation": 5.965159366773387e-05
+      },
+      {
+        "sweep": 34,
+        "gap_bound": 0.000339164127443846,
+        "primal": 0.6227480522546612,
+        "retained": 122,
+        "coordinate_visits": 8009,
+        "kkt_violation": 5.0886212280665255e-05
+      },
+      {
+        "sweep": 35,
+        "gap_bound": 0.00033586218215943725,
+        "primal": 0.6227480437691724,
+        "retained": 122,
+        "coordinate_visits": 8131,
+        "kkt_violation": 4.8282993236503646e-05
+      },
+      {
+        "sweep": 36,
+        "gap_bound": 0.00032799746428970896,
+        "primal": 0.6227480368451948,
+        "retained": 122,
+        "coordinate_visits": 8253,
+        "kkt_violation": 4.79296537165691e-05
+      },
+      {
+        "sweep": 37,
+        "gap_bound": 0.00031648446200150407,
+        "primal": 0.6227480311848244,
+        "retained": 122,
+        "coordinate_visits": 8375,
+        "kkt_violation": 4.689113357327773e-05
+      },
+      {
+        "sweep": 38,
+        "gap_bound": 0.0003021371278049016,
+        "primal": 0.6227480265496026,
+        "retained": 122,
+        "coordinate_visits": 8497,
+        "kkt_violation": 4.530768125132062e-05
+      },
+      {
+        "sweep": 39,
+        "gap_bound": 0.0002856729108030476,
+        "primal": 0.6227480227482467,
+        "retained": 122,
+        "coordinate_visits": 8619,
+        "kkt_violation": 4.330276649345405e-05
+      },
+      {
+        "sweep": 40,
+        "gap_bound": 0.00026771778717815805,
+        "primal": 0.6227480196269258,
+        "retained": 122,
+        "coordinate_visits": 8741,
+        "kkt_violation": 4.098415653049775e-05
+      },
+      {
+        "sweep": 41,
+        "gap_bound": 0.00024881200021740737,
+        "primal": 0.6227480170615668,
+        "retained": 122,
+        "coordinate_visits": 8863,
+        "kkt_violation": 3.8445050500331146e-05
+      },
+      {
+        "sweep": 42,
+        "gap_bound": 0.00022941626611798052,
+        "primal": 0.6227480149517793,
+        "retained": 121,
+        "coordinate_visits": 8985,
+        "kkt_violation": 3.576524212253046e-05
+      },
+      {
+        "sweep": 43,
+        "gap_bound": 0.0002099182417436606,
+        "primal": 0.6227480132160639,
+        "retained": 115,
+        "coordinate_visits": 9106,
+        "kkt_violation": 3.3012286004607816e-05
+      },
+      {
+        "sweep": 44,
+        "gap_bound": 0.00019063908615291303,
+        "primal": 0.6227480117880313,
+        "retained": 106,
+        "coordinate_visits": 9221,
+        "kkt_violation": 3.0242647667842737e-05
+      },
+      {
+        "sweep": 45,
+        "gap_bound": 0.00017183997902263045,
+        "primal": 0.6227480106134222,
+        "retained": 97,
+        "coordinate_visits": 9327,
+        "kkt_violation": 2.7502821459017557e-05
+      },
+      {
+        "sweep": 46,
+        "gap_bound": 0.00015525409989997912,
+        "primal": 0.6227480096477525,
+        "retained": 92,
+        "coordinate_visits": 9424,
+        "kkt_violation": 2.501488252738826e-05
+      },
+      {
+        "sweep": 47,
+        "gap_bound": 0.0001529956260664604,
+        "primal": 0.6227480088544478,
+        "retained": 92,
+        "coordinate_visits": 9516,
+        "kkt_violation": 2.425399912738685e-05
+      },
+      {
+        "sweep": 48,
+        "gap_bound": 0.00014869307227075452,
+        "primal": 0.622748008203366,
+        "retained": 88,
+        "coordinate_visits": 9608,
+        "kkt_violation": 2.3248970738513897e-05
+      },
+      {
+        "sweep": 49,
+        "gap_bound": 0.00014278843129888856,
+        "primal": 0.6227480076696144,
+        "retained": 88,
+        "coordinate_visits": 9696,
+        "kkt_violation": 2.2060099032009117e-05
+      },
+      {
+        "sweep": 50,
+        "gap_bound": 0.0001356689332925617,
+        "primal": 0.6227480072326063,
+        "retained": 86,
+        "coordinate_visits": 9784,
+        "kkt_violation": 2.0739627138714745e-05
+      },
+      {
+        "sweep": 51,
+        "gap_bound": 0.00012767076430099733,
+        "primal": 0.6227480068752997,
+        "retained": 83,
+        "coordinate_visits": 9870,
+        "kkt_violation": 1.933237881782124e-05
+      },
+      {
+        "sweep": 52,
+        "gap_bound": 0.00011908293838173883,
+        "primal": 0.6227480065835804,
+        "retained": 81,
+        "coordinate_visits": 9953,
+        "kkt_violation": 1.7876398463421983e-05
+      },
+      {
+        "sweep": 53,
+        "gap_bound": 0.0001101512309158837,
+        "primal": 0.6227480063457593,
+        "retained": 77,
+        "coordinate_visits": 10034,
+        "kkt_violation": 1.640358179094692e-05
+      },
+      {
+        "sweep": 54,
+        "gap_bound": 0.00010108209695172628,
+        "primal": 0.6227480061521617,
+        "retained": 72,
+        "coordinate_visits": 10111,
+        "kkt_violation": 1.4940289003263774e-05
+      },
+      {
+        "sweep": 55,
+        "gap_bound": 9.204651285545636e-05,
+        "primal": 0.6227480059947872,
+        "retained": 71,
+        "coordinate_visits": 10183,
+        "kkt_violation": 1.3507933992761012e-05
+      },
+      {
+        "sweep": 56,
+        "gap_bound": 8.318369223247191e-05,
+        "primal": 0.6227480058670287,
+        "retained": 68,
+        "coordinate_visits": 10254,
+        "kkt_violation": 1.2123544662560881e-05
+      },
+      {
+        "sweep": 57,
+        "gap_bound": 7.46046382837091e-05,
+        "primal": 0.6227480057634389,
+        "retained": 65,
+        "coordinate_visits": 10322,
+        "kkt_violation": 1.0800290790202727e-05
+      },
+      {
+        "sweep": 58,
+        "gap_bound": 6.639550443827257e-05,
+        "primal": 0.6227480056795356,
+        "retained": 59,
+        "coordinate_visits": 10387,
+        "kkt_violation": 9.547977005225361e-06
+      },
+      {
+        "sweep": 59,
+        "gap_bound": 5.862074349612589e-05,
+        "primal": 0.6227480056116379,
+        "retained": 57,
+        "coordinate_visits": 10446,
+        "kkt_violation": 8.37349943895449e-06
+      },
+      {
+        "sweep": 60,
+        "gap_bound": 5.1326032639719774e-05,
+        "primal": 0.6227480055567308,
+        "retained": 55,
+        "coordinate_visits": 10503,
+        "kkt_violation": 7.281265432750039e-06
+      },
+      {
+        "sweep": 61,
+        "gap_bound": 4.454096769968356e-05,
+        "primal": 0.6227480055123494,
+        "retained": 52,
+        "coordinate_visits": 10558,
+        "kkt_violation": 6.273576384357993e-06
+      },
+      {
+        "sweep": 62,
+        "gap_bound": 3.82815250489212e-05,
+        "primal": 0.6227480054764846,
+        "retained": 49,
+        "coordinate_visits": 10610,
+        "kkt_violation": 5.350974368191486e-06
+      },
+      {
+        "sweep": 63,
+        "gap_bound": 3.25522936626672e-05,
+        "primal": 0.6227480054475016,
+        "retained": 47,
+        "coordinate_visits": 10659,
+        "kkt_violation": 4.512553633526095e-06
+      },
+      {
+        "sweep": 64,
+        "gap_bound": 2.734848311726229e-05,
+        "primal": 0.6227480054240743,
+        "retained": 43,
+        "coordinate_visits": 10706,
+        "kkt_violation": 3.756238422199243e-06
+      },
+      {
+        "sweep": 65,
+        "gap_bound": 2.265771596735015e-05,
+        "primal": 0.6227480054051283,
+        "retained": 40,
+        "coordinate_visits": 10749,
+        "kkt_violation": 3.0790288297055657e-06
+      },
+      {
+        "sweep": 66,
+        "gap_bound": 1.9894657833211267e-05,
+        "primal": 0.6227480053897958,
+        "retained": 39,
+        "coordinate_visits": 10789,
+        "kkt_violation": 2.650440832772938e-06
+      },
+      {
+        "sweep": 67,
+        "gap_bound": 1.8013956562003976e-05,
+        "primal": 0.6227480053773764,
+        "retained": 38,
+        "coordinate_visits": 10828,
+        "kkt_violation": 2.342660320432677e-06
+      },
+      {
+        "sweep": 68,
+        "gap_bound": 1.618815668275688e-05,
+        "primal": 0.6227480053673061,
+        "retained": 38,
+        "coordinate_visits": 10866,
+        "kkt_violation": 2.0542673010229273e-06
+      },
+      {
+        "sweep": 69,
+        "gap_bound": 1.443652700478198e-05,
+        "primal": 0.6227480053591313,
+        "retained": 37,
+        "coordinate_visits": 10904,
+        "kkt_violation": 1.786256307270695e-06
+      },
+      {
+        "sweep": 70,
+        "gap_bound": 1.277362643877419e-05,
+        "primal": 0.6227480053524869,
+        "retained": 37,
+        "coordinate_visits": 10941,
+        "kkt_violation": 1.5391241045062398e-06
+      },
+      {
+        "sweep": 71,
+        "gap_bound": 1.120993031412111e-05,
+        "primal": 0.6227480053470795,
+        "retained": 37,
+        "coordinate_visits": 10978,
+        "kkt_violation": 1.3129514394930042e-06
+      },
+      {
+        "sweep": 72,
+        "gap_bound": 9.752407912736653e-06,
+        "primal": 0.6227480053426739,
+        "retained": 37,
+        "coordinate_visits": 11015,
+        "kkt_violation": 1.1301177819320052e-06
+      },
+      {
+        "sweep": 73,
+        "gap_bound": 8.405050854751444e-06,
+        "primal": 0.62274800533908,
+        "retained": 36,
+        "coordinate_visits": 11052,
+        "kkt_violation": 1.1196513224551174e-06
+      },
+      {
+        "sweep": 74,
+        "gap_bound": 7.169352816817678e-06,
+        "primal": 0.6227480053361457,
+        "retained": 36,
+        "coordinate_visits": 11088,
+        "kkt_violation": 1.092950169076512e-06
+      },
+      {
+        "sweep": 75,
+        "gap_bound": 6.044741746494034e-06,
+        "primal": 0.6227480053337475,
+        "retained": 35,
+        "coordinate_visits": 11124,
+        "kkt_violation": 1.0534344138182772e-06
+      },
+      {
+        "sweep": 76,
+        "gap_bound": 5.0289663623684324e-06,
+        "primal": 0.6227480053317866,
+        "retained": 34,
+        "coordinate_visits": 11159,
+        "kkt_violation": 1.0041014338393883e-06
+      },
+      {
+        "sweep": 77,
+        "gap_bound": 4.4782288280668755e-06,
+        "primal": 0.6227480053301825,
+        "retained": 34,
+        "coordinate_visits": 11193,
+        "kkt_violation": 9.47555509091258e-07
+      },
+      {
+        "sweep": 78,
+        "gap_bound": 4.003254020904623e-06,
+        "primal": 0.6227480053288701,
+        "retained": 34,
+        "coordinate_visits": 11227,
+        "kkt_violation": 8.860382613093409e-07
+      },
+      {
+        "sweep": 79,
+        "gap_bound": 3.6036573208477213e-06,
+        "primal": 0.6227480053277964,
+        "retained": 34,
+        "coordinate_visits": 11261,
+        "kkt_violation": 8.214593035862916e-07
+      },
+      {
+        "sweep": 80,
+        "gap_bound": 3.3629528530672106e-06,
+        "primal": 0.6227480053269183,
+        "retained": 33,
+        "coordinate_visits": 11295,
+        "kkt_violation": 7.554265650661085e-07
+      },
+      {
+        "sweep": 81,
+        "gap_bound": 3.117349445498167e-06,
+        "primal": 0.6227480053262003,
+        "retained": 32,
+        "coordinate_visits": 11328,
+        "kkt_violation": 6.892758705467905e-07
+      },
+      {
+        "sweep": 82,
+        "gap_bound": 2.8714822997122723e-06,
+        "primal": 0.6227480053256143,
+        "retained": 32,
+        "coordinate_visits": 11360,
+        "kkt_violation": 6.240994505773978e-07
+      },
+      {
+        "sweep": 83,
+        "gap_bound": 2.6291199823252744e-06,
+        "primal": 0.622748005325136,
+        "retained": 32,
+        "coordinate_visits": 11392,
+        "kkt_violation": 5.876128028325933e-07
+      },
+      {
+        "sweep": 84,
+        "gap_bound": 2.393269894320449e-06,
+        "primal": 0.6227480053247462,
+        "retained": 30,
+        "coordinate_visits": 11424,
+        "kkt_violation": 5.669753096529395e-07
+      },
+      {
+        "sweep": 85,
+        "gap_bound": 2.1662754482294237e-06,
+        "primal": 0.6227480053244289,
+        "retained": 29,
+        "coordinate_visits": 11454,
+        "kkt_violation": 5.408923408958821e-07
+      },
+      {
+        "sweep": 86,
+        "gap_bound": 1.949904984608914e-06,
+        "primal": 0.622748005324171,
+        "retained": 28,
+        "coordinate_visits": 11483,
+        "kkt_violation": 5.107920693636636e-07
+      },
+      {
+        "sweep": 87,
+        "gap_bound": 1.7454327362562925e-06,
+        "primal": 0.6227480053239616,
+        "retained": 27,
+        "coordinate_visits": 11511,
+        "kkt_violation": 4.779046582359392e-07
+      },
+      {
+        "sweep": 88,
+        "gap_bound": 1.553712080901644e-06,
+        "primal": 0.6227480053237919,
+        "retained": 27,
+        "coordinate_visits": 11538,
+        "kkt_violation": 4.432788448666125e-07
+      },
+      {
+        "sweep": 89,
+        "gap_bound": 1.3752414599680461e-06,
+        "primal": 0.6227480053236546,
+        "retained": 27,
+        "coordinate_visits": 11565,
+        "kkt_violation": 4.077983939768104e-07
+      },
+      {
+        "sweep": 90,
+        "gap_bound": 1.2102233475487085e-06,
+        "primal": 0.6227480053235437,
+        "retained": 26,
+        "coordinate_visits": 11592,
+        "kkt_violation": 3.7219817682759837e-07
+      },
+      {
+        "sweep": 91,
+        "gap_bound": 1.0586166629826637e-06,
+        "primal": 0.6227480053234539,
+        "retained": 26,
+        "coordinate_visits": 11618,
+        "kkt_violation": 3.3707969121499204e-07
+      },
+      {
+        "sweep": 92,
+        "gap_bound": 9.201831011374965e-07,
+        "primal": 0.6227480053233817,
+        "retained": 26,
+        "coordinate_visits": 11644,
+        "kkt_violation": 3.0292587710478713e-07
+      },
+      {
+        "sweep": 93,
+        "gap_bound": 7.945277893967875e-07,
+        "primal": 0.6227480053233233,
+        "retained": 26,
+        "coordinate_visits": 11670,
+        "kkt_violation": 2.701151162604054e-07
+      },
+      {
+        "sweep": 94,
+        "gap_bound": 6.811347231152693e-07,
+        "primal": 0.6227480053232763,
+        "retained": 26,
+        "coordinate_visits": 11696,
+        "kkt_violation": 2.389343459821558e-07
+      },
+      {
+        "sweep": 95,
+        "gap_bound": 5.793974310417321e-07,
+        "primal": 0.6227480053232386,
+        "retained": 26,
+        "coordinate_visits": 11722,
+        "kkt_violation": 2.0959123549213476e-07
+      },
+      {
+        "sweep": 96,
+        "gap_bound": 4.886452784687113e-07,
+        "primal": 0.6227480053232081,
+        "retained": 26,
+        "coordinate_visits": 11748,
+        "kkt_violation": 1.822254032252113e-07
+      },
+      {
+        "sweep": 97,
+        "gap_bound": 4.081658273098235e-07,
+        "primal": 0.6227480053231836,
+        "retained": 26,
+        "coordinate_visits": 11774,
+        "kkt_violation": 1.5691867173706076e-07
+      },
+      {
+        "sweep": 98,
+        "gap_bound": 3.372236659196864e-07,
+        "primal": 0.6227480053231639,
+        "retained": 26,
+        "coordinate_visits": 11800,
+        "kkt_violation": 1.337043692220541e-07
+      },
+      {
+        "sweep": 99,
+        "gap_bound": 2.750760457349701e-07,
+        "primal": 0.6227480053231479,
+        "retained": 26,
+        "coordinate_visits": 11826,
+        "kkt_violation": 1.1257570598638411e-07
+      },
+      {
+        "sweep": 100,
+        "gap_bound": 2.2098572053723976e-07,
+        "primal": 0.622748005323135,
+        "retained": 26,
+        "coordinate_visits": 11852,
+        "kkt_violation": 9.349326055702045e-08
+      },
+      {
+        "sweep": 101,
+        "gap_bound": 1.7702408090538972e-07,
+        "primal": 0.6227480053231245,
+        "retained": 26,
+        "coordinate_visits": 11878,
+        "kkt_violation": 7.639161515166082e-08
+      },
+      {
+        "sweep": 102,
+        "gap_bound": 1.7142884954272588e-07,
+        "primal": 0.622748005323116,
+        "retained": 26,
+        "coordinate_visits": 11904,
+        "kkt_violation": 6.606273766918136e-08
+      },
+      {
+        "sweep": 103,
+        "gap_bound": 1.9637136004122008e-07,
+        "primal": 0.6227480053231091,
+        "retained": 26,
+        "coordinate_visits": 11930,
+        "kkt_violation": 5.8448184632464706e-08
+      },
+      {
+        "sweep": 104,
+        "gap_bound": 2.1359582228890152e-07,
+        "primal": 0.6227480053231036,
+        "retained": 26,
+        "coordinate_visits": 11956,
+        "kkt_violation": 5.1279813381710504e-08
+      },
+      {
+        "sweep": 105,
+        "gap_bound": 2.242369927512654e-07,
+        "primal": 0.6227480053230989,
+        "retained": 26,
+        "coordinate_visits": 11982,
+        "kkt_violation": 4.4592262160580987e-08
+      },
+      {
+        "sweep": 106,
+        "gap_bound": 2.2932782460373766e-07,
+        "primal": 0.6227480053230952,
+        "retained": 26,
+        "coordinate_visits": 12008,
+        "kkt_violation": 3.8405995043955254e-08
+      },
+      {
+        "sweep": 107,
+        "gap_bound": 2.29801505550216e-07,
+        "primal": 0.622748005323092,
+        "retained": 26,
+        "coordinate_visits": 12034,
+        "kkt_violation": 3.272957697225687e-08
+      },
+      {
+        "sweep": 108,
+        "gap_bound": 2.2649474107953852e-07,
+        "primal": 0.6227480053230896,
+        "retained": 26,
+        "coordinate_visits": 12060,
+        "kkt_violation": 2.9953603597476786e-08
+      },
+      {
+        "sweep": 109,
+        "gap_bound": 2.2015195333034506e-07,
+        "primal": 0.6227480053230876,
+        "retained": 26,
+        "coordinate_visits": 12086,
+        "kkt_violation": 2.9631195747059635e-08
+      },
+      {
+        "sweep": 110,
+        "gap_bound": 2.11430228787541e-07,
+        "primal": 0.6227480053230858,
+        "retained": 26,
+        "coordinate_visits": 12112,
+        "kkt_violation": 2.8888783823455277e-08
+      },
+      {
+        "sweep": 111,
+        "gap_bound": 2.0090472064533662e-07,
+        "primal": 0.6227480053230845,
+        "retained": 26,
+        "coordinate_visits": 12138,
+        "kkt_violation": 2.7815146519394318e-08
+      },
+      {
+        "sweep": 112,
+        "gap_bound": 1.8907440900071018e-07,
+        "primal": 0.6227480053230834,
+        "retained": 26,
+        "coordinate_visits": 12164,
+        "kkt_violation": 2.6488172349958816e-08
+      },
+      {
+        "sweep": 113,
+        "gap_bound": 1.763680006565472e-07,
+        "primal": 0.6227480053230823,
+        "retained": 26,
+        "coordinate_visits": 12190,
+        "kkt_violation": 2.4975594696552417e-08
+      },
+      {
+        "sweep": 114,
+        "gap_bound": 1.631499133197155e-07,
+        "primal": 0.6227480053230815,
+        "retained": 26,
+        "coordinate_visits": 12216,
+        "kkt_violation": 2.3335759220810548e-08
+      },
+      {
+        "sweep": 115,
+        "gap_bound": 1.4972615994544231e-07,
+        "primal": 0.6227480053230807,
+        "retained": 26,
+        "coordinate_visits": 12242,
+        "kkt_violation": 2.1618397530454025e-08
+      },
+      {
+        "sweep": 116,
+        "gap_bound": 1.3635011293746344e-07,
+        "primal": 0.6227480053230803,
+        "retained": 26,
+        "coordinate_visits": 12268,
+        "kkt_violation": 1.9865400845142656e-08
+      },
+      {
+        "sweep": 117,
+        "gap_bound": 1.2322806357965454e-07,
+        "primal": 0.6227480053230797,
+        "retained": 26,
+        "coordinate_visits": 12294,
+        "kkt_violation": 1.8111578799218098e-08
+      },
+      {
+        "sweep": 118,
+        "gap_bound": 1.105245106408515e-07,
+        "primal": 0.6227480053230795,
+        "retained": 26,
+        "coordinate_visits": 12320,
+        "kkt_violation": 1.6385392688500477e-08
+      },
+      {
+        "sweep": 119,
+        "gap_bound": 1.0546550063908505e-07,
+        "primal": 0.6227480053230793,
+        "retained": 26,
+        "coordinate_visits": 12346,
+        "kkt_violation": 1.556765223675871e-08
+      },
+      {
+        "sweep": 120,
+        "gap_bound": 1.02359830608643e-07,
+        "primal": 0.622748005323079,
+        "retained": 26,
+        "coordinate_visits": 12372,
+        "kkt_violation": 1.4976724985182877e-08
+      },
+      {
+        "sweep": 121,
+        "gap_bound": 9.816470473960131e-08,
+        "primal": 0.6227480053230787,
+        "retained": 26,
+        "coordinate_visits": 12398,
+        "kkt_violation": 1.4250097546408824e-08
+      },
+      {
+        "sweep": 122,
+        "gap_bound": 9.314708436515596e-08,
+        "primal": 0.6227480053230786,
+        "retained": 26,
+        "coordinate_visits": 12424,
+        "kkt_violation": 1.3424412442786249e-08
+      },
+      {
+        "sweep": 123,
+        "gap_bound": 8.753842068384251e-08,
+        "primal": 0.6227480053230784,
+        "retained": 26,
+        "coordinate_visits": 12450,
+        "kkt_violation": 1.2531210305533058e-08
+      },
+      {
+        "sweep": 124,
+        "gap_bound": 8.153741326776866e-08,
+        "primal": 0.6227480053230785,
+        "retained": 26,
+        "coordinate_visits": 12476,
+        "kkt_violation": 1.1597354729331322e-08
+      },
+      {
+        "sweep": 125,
+        "gap_bound": 7.531277730776853e-08,
+        "primal": 0.6227480053230783,
+        "retained": 26,
+        "coordinate_visits": 12502,
+        "kkt_violation": 1.0645450174151527e-08
+      },
+      {
+        "sweep": 126,
+        "gap_bound": 6.900601464983613e-08,
+        "primal": 0.6227480053230783,
+        "retained": 26,
+        "coordinate_visits": 12528,
+        "kkt_violation": 9.694259041348463e-09
+      },
+      {
+        "sweep": 127,
+        "gap_bound": 6.273409040500731e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12554,
+        "kkt_violation": 8.759098092669948e-09
+      },
+      {
+        "sweep": 128,
+        "gap_bound": 5.659203736249075e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12580,
+        "kkt_violation": 7.852222295989808e-09
+      },
+      {
+        "sweep": 129,
+        "gap_bound": 5.065542423089763e-08,
+        "primal": 0.6227480053230782,
+        "retained": 26,
+        "coordinate_visits": 12606,
+        "kkt_violation": 6.983186459641466e-09
+      },
+      {
+        "sweep": 130,
+        "gap_bound": 4.4982698552690913e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12632,
+        "kkt_violation": 6.159184259835193e-09
+      },
+      {
+        "sweep": 131,
+        "gap_bound": 3.961736719660681e-08,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12658,
+        "kkt_violation": 5.3853640505363565e-09
+      },
+      {
+        "sweep": 132,
+        "gap_bound": 3.459002342940719e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12684,
+        "kkt_violation": 4.665119360258707e-09
+      },
+      {
+        "sweep": 133,
+        "gap_bound": 2.9920216389482745e-08,
+        "primal": 0.6227480053230778,
+        "retained": 26,
+        "coordinate_visits": 12710,
+        "kkt_violation": 4.000354533739703e-09
+      },
+      {
+        "sweep": 134,
+        "gap_bound": 2.5618148287206074e-08,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12736,
+        "kkt_violation": 3.3917269201544364e-09
+      },
+      {
+        "sweep": 135,
+        "gap_bound": 2.1686224771652797e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12762,
+        "kkt_violation": 2.838864344989478e-09
+      },
+      {
+        "sweep": 136,
+        "gap_bound": 1.812042879438641e-08,
+        "primal": 0.6227480053230778,
+        "retained": 26,
+        "coordinate_visits": 12788,
+        "kkt_violation": 2.340558101499024e-09
+      },
+      {
+        "sweep": 137,
+        "gap_bound": 1.5218019638898983e-08,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12814,
+        "kkt_violation": 1.9319782440518907e-09
+      },
+      {
+        "sweep": 138,
+        "gap_bound": 1.385703942390187e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12840,
+        "kkt_violation": 1.7184778045020721e-09
+      },
+      {
+        "sweep": 139,
+        "gap_bound": 1.25211895958129e-08,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 12866,
+        "kkt_violation": 1.5159972235889718e-09
+      },
+      {
+        "sweep": 140,
+        "gap_bound": 1.1227345527575627e-08,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12892,
+        "kkt_violation": 1.325806887886305e-09
+      },
+      {
+        "sweep": 141,
+        "gap_bound": 9.988639007333826e-09,
+        "primal": 0.6227480053230778,
+        "retained": 26,
+        "coordinate_visits": 12918,
+        "kkt_violation": 1.148746708867776e-09
+      },
+      {
+        "sweep": 142,
+        "gap_bound": 8.814927226106702e-09,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12944,
+        "kkt_violation": 9.852905089036135e-10
+      },
+      {
+        "sweep": 143,
+        "gap_bound": 7.713228316746253e-09,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12970,
+        "kkt_violation": 8.356050365532219e-10
+      },
+      {
+        "sweep": 144,
+        "gap_bound": 6.688128734170257e-09,
+        "primal": 0.622748005323078,
+        "retained": 26,
+        "coordinate_visits": 12996,
+        "kkt_violation": 8.230390119434716e-10
+      },
+      {
+        "sweep": 145,
+        "gap_bound": 5.742148837636361e-09,
+        "primal": 0.6227480053230781,
+        "retained": 26,
+        "coordinate_visits": 13022,
+        "kkt_violation": 8.117086933157047e-10
+      }
+    ],
+    "plain": [
+      {
+        "sweep": 0,
+        "gap_bound": 0.017488268631352204,
+        "primal": 0.6255818060960596,
+        "retained": 300,
+        "coordinate_visits": 0,
+        "kkt_violation": 0.020472945898836255
+      },
+      {
+        "sweep": 1,
+        "gap_bound": 0.06015147721142553,
+        "primal": 0.6231116531606701,
+        "retained": 300,
+        "coordinate_visits": 300,
+        "kkt_violation": 0.01828123171134624
+      },
+      {
+        "sweep": 2,
+        "gap_bound": 0.021740423735963927,
+        "primal": 0.6228993904163053,
+        "retained": 300,
+        "coordinate_visits": 600,
+        "kkt_violation": 0.006627310996017675
+      },
+      {
+        "sweep": 3,
+        "gap_bound": 0.011943731446347809,
+        "primal": 0.6228286009174155,
+        "retained": 300,
+        "coordinate_visits": 900,
+        "kkt_violation": 0.005741356972201274
+      },
+      {
+        "sweep": 4,
+        "gap_bound": 0.011032703436263867,
+        "primal": 0.6227993307549027,
+        "retained": 300,
+        "coordinate_visits": 1200,
+        "kkt_violation": 0.003347301622246765
+      },
+      {
+        "sweep": 5,
+        "gap_bound": 0.00972341933873315,
+        "primal": 0.6227839647631124,
+        "retained": 300,
+        "coordinate_visits": 1500,
+        "kkt_violation": 0.002976813834728101
+      },
+      {
+        "sweep": 6,
+        "gap_bound": 0.008501045733795672,
+        "primal": 0.622772156000909,
+        "retained": 300,
+        "coordinate_visits": 1800,
+        "kkt_violation": 0.002592122475525982
+      },
+      {
+        "sweep": 7,
+        "gap_bound": 0.007212134406513656,
+        "primal": 0.6227643763512629,
+        "retained": 300,
+        "coordinate_visits": 2100,
+        "kkt_violation": 0.0012054764634886958
+      },
+      {
+        "sweep": 8,
+        "gap_bound": 0.005921017712457802,
+        "primal": 0.6227608688438481,
+        "retained": 300,
+        "coordinate_visits": 2400,
+        "kkt_violation": 0.001038357769871115
+      },
+      {
+        "sweep": 9,
+        "gap_bound": 0.004871149764598954,
+        "primal": 0.6227581871718717,
+        "retained": 300,
+        "coordinate_visits": 2700,
+        "kkt_violation": 0.001017372119762855
+      },
+      {
+        "sweep": 10,
+        "gap_bound": 0.003960270482490667,
+        "primal": 0.6227560963970202,
+        "retained": 300,
+        "coordinate_visits": 3000,
+        "kkt_violation": 0.0009869288709319843
+      },
+      {
+        "sweep": 11,
+        "gap_bound": 0.0031833667486532036,
+        "primal": 0.6227544542364488,
+        "retained": 300,
+        "coordinate_visits": 3300,
+        "kkt_violation": 0.0009468531609275743
+      },
+      {
+        "sweep": 12,
+        "gap_bound": 0.0025259236983305525,
+        "primal": 0.6227531569543348,
+        "retained": 300,
+        "coordinate_visits": 3600,
+        "kkt_violation": 0.0008994119987733584
+      },
+      {
+        "sweep": 13,
+        "gap_bound": 0.002207113587702045,
+        "primal": 0.6227521275076304,
+        "retained": 300,
+        "coordinate_visits": 3900,
+        "kkt_violation": 0.0008466343075465843
+      },
+      {
+        "sweep": 14,
+        "gap_bound": 0.001918289504550117,
+        "primal": 0.6227513078001574,
+        "retained": 300,
+        "coordinate_visits": 4200,
+        "kkt_violation": 0.0007902879931803233
+      },
+      {
+        "sweep": 15,
+        "gap_bound": 0.0016579031687926906,
+        "primal": 0.6227506534395431,
+        "retained": 300,
+        "coordinate_visits": 4500,
+        "kkt_violation": 0.0007318819299693413
+      },
+      {
+        "sweep": 16,
+        "gap_bound": 0.0014242550600387924,
+        "primal": 0.6227501301252865,
+        "retained": 300,
+        "coordinate_visits": 4800,
+        "kkt_violation": 0.000672686680935751
+      },
+      {
+        "sweep": 17,
+        "gap_bound": 0.001215556845922598,
+        "primal": 0.6227497110996144,
+        "retained": 300,
+        "coordinate_visits": 5100,
+        "kkt_violation": 0.0006137573160820697
+      },
+      {
+        "sweep": 18,
+        "gap_bound": 0.0010299845225209285,
+        "primal": 0.6227493753199987,
+        "retained": 300,
+        "coordinate_visits": 5400,
+        "kkt_violation": 0.0005559556974837204
+      },
+      {
+        "sweep": 19,
+        "gap_bound": 0.0008657199644876953,
+        "primal": 0.6227491061296595,
+        "retained": 300,
+        "coordinate_visits": 5700,
+        "kkt_violation": 0.0004999717995458272
+      },
+      {
+        "sweep": 20,
+        "gap_bound": 0.0007209823178317407,
+        "primal": 0.6227488902758506,
+        "retained": 300,
+        "coordinate_visits": 6000,
+        "kkt_violation": 0.00044634386042171487
+      },
+      {
+        "sweep": 21,
+        "gap_bound": 0.0005940510258912982,
+        "primal": 0.6227487171740845,
+        "retained": 300,
+        "coordinate_visits": 6300,
+        "kkt_violation": 0.0003954772538678278
+      },
+      {
+        "sweep": 22,
+        "gap_bound": 0.0004972574219797798,
+        "primal": 0.6227485783486681,
+        "retained": 300,
+        "coordinate_visits": 6600,
+        "kkt_violation": 0.0003476620228861915
+      },
+      {
+        "sweep": 23,
+        "gap_bound": 0.00045166793067200365,
+        "primal": 0.6227484670015164,
+        "retained": 300,
+        "coordinate_visits": 6900,
+        "kkt_violation": 0.0003030890490527127
+      },
+      {
+        "sweep": 24,
+        "gap_bound": 0.0004084610299787263,
+        "primal": 0.6227483776757804,
+        "retained": 300,
+        "coordinate_visits": 7200,
+        "kkt_violation": 0.0002618648560764672
+      },
+      {
+        "sweep": 25,
+        "gap_bound": 0.0003675085004901921,
+        "primal": 0.6227483059906738,
+        "retained": 300,
+        "coordinate_visits": 7500,
+        "kkt_violation": 0.00022402506614670192
+      },
+      {
+        "sweep": 26,
+        "gap_bound": 0.00032875321187757987,
+        "primal": 0.6227482484306296,
+        "retained": 300,
+        "coordinate_visits": 7800,
+        "kkt_violation": 0.00018954654405155258
+      },
+      {
+        "sweep": 27,
+        "gap_bound": 0.00029218204933436574,
+        "primal": 0.6227482021765258,
+        "retained": 300,
+        "coordinate_visits": 8100,
+        "kkt_violation": 0.0001583582772569092
+      },
+      {
+        "sweep": 28,
+        "gap_bound": 0.00025780526805372717,
+        "primal": 0.6227481649699285,
+        "retained": 300,
+        "coordinate_visits": 8400,
+        "kkt_violation": 0.00013035105049506723
+      },
+      {
+        "sweep": 29,
+        "gap_bound": 0.00024801051683975443,
+        "primal": 0.6227481350035421,
+        "retained": 300,
+        "coordinate_visits": 8700,
+        "kkt_violation": 0.00010538598117144915
+      },
+      {
+        "sweep": 30,
+        "gap_bound": 0.00028483691854229914,
+        "primal": 0.6227481108326589,
+        "retained": 300,
+        "coordinate_visits": 9000,
+        "kkt_violation": 9.071895717999157e-05
+      },
+      {
+        "sweep": 31,
+        "gap_bound": 0.0003109963824224668,
+        "primal": 0.6227480913035462,
+        "retained": 300,
+        "coordinate_visits": 9300,
+        "kkt_violation": 7.957697133322006e-05
+      },
+      {
+        "sweep": 32,
+        "gap_bound": 0.0003279046281741496,
+        "primal": 0.6227480754955642,
+        "retained": 300,
+        "coordinate_visits": 9600,
+        "kkt_violation": 6.921580253890086e-05
+      },
+      {
+        "sweep": 33,
+        "gap_bound": 0.00033688558092838784,
+        "primal": 0.6227480626744459,
+        "retained": 300,
+        "coordinate_visits": 9900,
+        "kkt_violation": 5.965159366773387e-05
+      },
+      {
+        "sweep": 34,
+        "gap_bound": 0.000339164127443846,
+        "primal": 0.6227480522546612,
+        "retained": 300,
+        "coordinate_visits": 10200,
+        "kkt_violation": 5.0886212280665255e-05
+      },
+      {
+        "sweep": 35,
+        "gap_bound": 0.00033586218215943725,
+        "primal": 0.6227480437691724,
+        "retained": 300,
+        "coordinate_visits": 10500,
+        "kkt_violation": 4.8282993236503646e-05
+      },
+      {
+        "sweep": 36,
+        "gap_bound": 0.00032799746428970896,
+        "primal": 0.6227480368451948,
+        "retained": 300,
+        "coordinate_visits": 10800,
+        "kkt_violation": 4.79296537165691e-05
+      },
+      {
+        "sweep": 37,
+        "gap_bound": 0.00031648446200150407,
+        "primal": 0.6227480311848244,
+        "retained": 300,
+        "coordinate_visits": 11100,
+        "kkt_violation": 4.689113357327773e-05
+      },
+      {
+        "sweep": 38,
+        "gap_bound": 0.0003021371278049016,
+        "primal": 0.6227480265496026,
+        "retained": 300,
+        "coordinate_visits": 11400,
+        "kkt_violation": 4.530768125132062e-05
+      },
+      {
+        "sweep": 39,
+        "gap_bound": 0.0002856729108030476,
+        "primal": 0.6227480227482467,
+        "retained": 300,
+        "coordinate_visits": 11700,
+        "kkt_violation": 4.330276649345405e-05
+      },
+      {
+        "sweep": 40,
+        "gap_bound": 0.00026771778717815805,
+        "primal": 0.6227480196269258,
+        "retained": 300,
+        "coordinate_visits": 12000,
+        "kkt_violation": 4.098415653049775e-05
+      },
+      {
+        "sweep": 41,
+        "gap_bound": 0.00024881200021740737,
+        "primal": 0.6227480170615668,
+        "retained": 300,
+        "coordinate_visits": 12300,
+        "kkt_violation": 3.8445050500331146e-05
+      },
+      {
+        "sweep": 42,
+        "gap_bound": 0.00022941626611798052,
+        "primal": 0.6227480149517793,
+        "retained": 300,
+        "coordinate_visits": 12600,
+        "kkt_violation": 3.576524212253046e-05
+      },
+      {
+        "sweep": 43,
+        "gap_bound": 0.0002099182417436606,
+        "primal": 0.6227480132160639,
+        "retained": 300,
+        "coordinate_visits": 12900,
+        "kkt_violation": 3.3012286004607816e-05
+      },
+      {
+        "sweep": 44,
+        "gap_bound": 0.00019063908615291303,
+        "primal": 0.6227480117880313,
+        "retained": 300,
+        "coordinate_visits": 13200,
+        "kkt_violation": 3.0242647667842737e-05
+      },
+      {
+        "sweep": 45,
+        "gap_bound": 0.00017183997902263045,
+        "primal": 0.6227480106134222,
+        "retained": 300,
+        "coordinate_visits": 13500,
+        "kkt_violation": 2.7502821459017557e-05
+      },
+      {
+        "sweep": 46,
+        "gap_bound": 0.00015525409989997912,
+        "primal": 0.6227480096477525,
+        "retained": 300,
+        "coordinate_visits": 13800,
+        "kkt_violation": 2.501488252738826e-05
+      },
+      {
+        "sweep": 47,
+        "gap_bound": 0.0001529956260664604,
+        "primal": 0.6227480088544478,
+        "retained": 300,
+        "coordinate_visits": 14100,
+        "kkt_violation": 2.425399912738685e-05
+      },
+      {
+        "sweep": 48,
+        "gap_bound": 0.00014869307227075452,
+        "primal": 0.622748008203366,
+        "retained": 300,
+        "coordinate_visits": 14400,
+        "kkt_violation": 2.3248970738513897e-05
+      },
+      {
+        "sweep": 49,
+        "gap_bound": 0.00014278843129888856,
+        "primal": 0.6227480076696144,
+        "retained": 300,
+        "coordinate_visits": 14700,
+        "kkt_violation": 2.2060099032009117e-05
+      },
+      {
+        "sweep": 50,
+        "gap_bound": 0.0001356689332925617,
+        "primal": 0.6227480072326063,
+        "retained": 300,
+        "coordinate_visits": 15000,
+        "kkt_violation": 2.0739627138714745e-05
+      },
+      {
+        "sweep": 51,
+        "gap_bound": 0.00012767076430099733,
+        "primal": 0.6227480068752997,
+        "retained": 300,
+        "coordinate_visits": 15300,
+        "kkt_violation": 1.933237881782124e-05
+      },
+      {
+        "sweep": 52,
+        "gap_bound": 0.00011908293838173883,
+        "primal": 0.6227480065835804,
+        "retained": 300,
+        "coordinate_visits": 15600,
+        "kkt_violation": 1.7876398463421983e-05
+      },
+      {
+        "sweep": 53,
+        "gap_bound": 0.0001101512309158837,
+        "primal": 0.6227480063457593,
+        "retained": 300,
+        "coordinate_visits": 15900,
+        "kkt_violation": 1.640358179094692e-05
+      },
+      {
+        "sweep": 54,
+        "gap_bound": 0.00010108209695172628,
+        "primal": 0.6227480061521617,
+        "retained": 300,
+        "coordinate_visits": 16200,
+        "kkt_violation": 1.4940289003263774e-05
+      },
+      {
+        "sweep": 55,
+        "gap_bound": 9.204651285545636e-05,
+        "primal": 0.6227480059947872,
+        "retained": 300,
+        "coordinate_visits": 16500,
+        "kkt_violation": 1.3507933992761012e-05
+      },
+      {
+        "sweep": 56,
+        "gap_bound": 8.318369223247191e-05,
+        "primal": 0.6227480058670287,
+        "retained": 300,
+        "coordinate_visits": 16800,
+        "kkt_violation": 1.2123544662560881e-05
+      },
+      {
+        "sweep": 57,
+        "gap_bound": 7.46046382837091e-05,
+        "primal": 0.6227480057634389,
+        "retained": 300,
+        "coordinate_visits": 17100,
+        "kkt_violation": 1.0800290790202727e-05
+      },
+      {
+        "sweep": 58,
+        "gap_bound": 6.639550443827257e-05,
+        "primal": 0.6227480056795356,
+        "retained": 300,
+        "coordinate_visits": 17400,
+        "kkt_violation": 9.547977005225361e-06
+      },
+      {
+        "sweep": 59,
+        "gap_bound": 5.862074349612589e-05,
+        "primal": 0.6227480056116379,
+        "retained": 300,
+        "coordinate_visits": 17700,
+        "kkt_violation": 8.37349943895449e-06
+      },
+      {
+        "sweep": 60,
+        "gap_bound": 5.1326032639719774e-05,
+        "primal": 0.6227480055567308,
+        "retained": 300,
+        "coordinate_visits": 18000,
+        "kkt_violation": 7.281265432750039e-06
+      },
+      {
+        "sweep": 61,
+        "gap_bound": 4.454096769968356e-05,
+        "primal": 0.6227480055123494,
+        "retained": 300,
+        "coordinate_visits": 18300,
+        "kkt_violation": 6.273576384357993e-06
+      },
+      {
+        "sweep": 62,
+        "gap_bound": 3.82815250489212e-05,
+        "primal": 0.6227480054764846,
+        "retained": 300,
+        "coordinate_visits": 18600,
+        "kkt_violation": 5.350974368191486e-06
+      },
+      {
+        "sweep": 63,
+        "gap_bound": 3.25522936626672e-05,
+        "primal": 0.6227480054475016,
+        "retained": 300,
+        "coordinate_visits": 18900,
+        "kkt_violation": 4.512553633526095e-06
+      },
+      {
+        "sweep": 64,
+        "gap_bound": 2.734848311726229e-05,
+        "primal": 0.6227480054240743,
+        "retained": 300,
+        "coordinate_visits": 19200,
+        "kkt_violation": 3.756238422199243e-06
+      },
+      {
+        "sweep": 65,
+        "gap_bound": 2.265771596735015e-05,
+        "primal": 0.6227480054051283,
+        "retained": 300,
+        "coordinate_visits": 19500,
+        "kkt_violation": 3.0790288297055657e-06
+      },
+      {
+        "sweep": 66,
+        "gap_bound": 1.9894657833211267e-05,
+        "primal": 0.6227480053897958,
+        "retained": 300,
+        "coordinate_visits": 19800,
+        "kkt_violation": 2.650440832772938e-06
+      },
+      {
+        "sweep": 67,
+        "gap_bound": 1.8013956562003976e-05,
+        "primal": 0.6227480053773764,
+        "retained": 300,
+        "coordinate_visits": 20100,
+        "kkt_violation": 2.342660320432677e-06
+      },
+      {
+        "sweep": 68,
+        "gap_bound": 1.618815668275688e-05,
+        "primal": 0.6227480053673061,
+        "retained": 300,
+        "coordinate_visits": 20400,
+        "kkt_violation": 2.0542673010229273e-06
+      },
+      {
+        "sweep": 69,
+        "gap_bound": 1.443652700478198e-05,
+        "primal": 0.6227480053591313,
+        "retained": 300,
+        "coordinate_visits": 20700,
+        "kkt_violation": 1.786256307270695e-06
+      },
+      {
+        "sweep": 70,
+        "gap_bound": 1.277362643877419e-05,
+        "primal": 0.6227480053524869,
+        "retained": 300,
+        "coordinate_visits": 21000,
+        "kkt_violation": 1.5391241045062398e-06
+      },
+      {
+        "sweep": 71,
+        "gap_bound": 1.120993031412111e-05,
+        "primal": 0.6227480053470795,
+        "retained": 300,
+        "coordinate_visits": 21300,
+        "kkt_violation": 1.3129514394930042e-06
+      },
+      {
+        "sweep": 72,
+        "gap_bound": 9.752407912736653e-06,
+        "primal": 0.6227480053426739,
+        "retained": 300,
+        "coordinate_visits": 21600,
+        "kkt_violation": 1.1301177819320052e-06
+      },
+      {
+        "sweep": 73,
+        "gap_bound": 8.405050854751444e-06,
+        "primal": 0.62274800533908,
+        "retained": 300,
+        "coordinate_visits": 21900,
+        "kkt_violation": 1.1196513224551174e-06
+      },
+      {
+        "sweep": 74,
+        "gap_bound": 7.169352816817678e-06,
+        "primal": 0.6227480053361457,
+        "retained": 300,
+        "coordinate_visits": 22200,
+        "kkt_violation": 1.092950169076512e-06
+      },
+      {
+        "sweep": 75,
+        "gap_bound": 6.044741746494034e-06,
+        "primal": 0.6227480053337475,
+        "retained": 300,
+        "coordinate_visits": 22500,
+        "kkt_violation": 1.0534344138182772e-06
+      },
+      {
+        "sweep": 76,
+        "gap_bound": 5.0289663623684324e-06,
+        "primal": 0.6227480053317866,
+        "retained": 300,
+        "coordinate_visits": 22800,
+        "kkt_violation": 1.0041014338393883e-06
+      },
+      {
+        "sweep": 77,
+        "gap_bound": 4.4782288280668755e-06,
+        "primal": 0.6227480053301825,
+        "retained": 300,
+        "coordinate_visits": 23100,
+        "kkt_violation": 9.47555509091258e-07
+      },
+      {
+        "sweep": 78,
+        "gap_bound": 4.003254020904623e-06,
+        "primal": 0.6227480053288701,
+        "retained": 300,
+        "coordinate_visits": 23400,
+        "kkt_violation": 8.860382613093409e-07
+      },
+      {
+        "sweep": 79,
+        "gap_bound": 3.6036573208477213e-06,
+        "primal": 0.6227480053277964,
+        "retained": 300,
+        "coordinate_visits": 23700,
+        "kkt_violation": 8.214593035862916e-07
+      },
+      {
+        "sweep": 80,
+        "gap_bound": 3.3629528530672106e-06,
+        "primal": 0.6227480053269183,
+        "retained": 300,
+        "coordinate_visits": 24000,
+        "kkt_violation": 7.554265650661085e-07
+      },
+      {
+        "sweep": 81,
+        "gap_bound": 3.117349445498167e-06,
+        "primal": 0.6227480053262003,
+        "retained": 300,
+        "coordinate_visits": 24300,
+        "kkt_violation": 6.892758705467905e-07
+      },
+      {
+        "sweep": 82,
+        "gap_bound": 2.8714822997122723e-06,
+        "primal": 0.6227480053256143,
+        "retained": 300,
+        "coordinate_visits": 24600,
+        "kkt_violation": 6.240994505773978e-07
+      },
+      {
+        "sweep": 83,
+        "gap_bound": 2.6291199823252744e-06,
+        "primal": 0.622748005325136,
+        "retained": 300,
+        "coordinate_visits": 24900,
+        "kkt_violation": 5.876128028325933e-07
+      },
+      {
+        "sweep": 84,
+        "gap_bound": 2.393269894320449e-06,
+        "primal": 0.6227480053247462,
+        "retained": 300,
+        "coordinate_visits": 25200,
+        "kkt_violation": 5.669753096529395e-07
+      },
+      {
+        "sweep": 85,
+        "gap_bound": 2.1662754482294237e-06,
+        "primal": 0.6227480053244289,
+        "retained": 300,
+        "coordinate_visits": 25500,
+        "kkt_violation": 5.408923408958821e-07
+      },
+      {
+        "sweep": 86,
+        "gap_bound": 1.949904984608914e-06,
+        "primal": 0.622748005324171,
+        "retained": 300,
+        "coordinate_visits": 25800,
+        "kkt_violation": 5.107920693636636e-07
+      },
+      {
+        "sweep": 87,
+        "gap_bound": 1.7454327362562925e-06,
+        "primal": 0.6227480053239616,
+        "retained": 300,
+        "coordinate_visits": 26100,
+        "kkt_violation": 4.779046582359392e-07
+      },
+      {
+        "sweep": 88,
+        "gap_bound": 1.553712080901644e-06,
+        "primal": 0.6227480053237919,
+        "retained": 300,
+        "coordinate_visits": 26400,
+        "kkt_violation": 4.432788448666125e-07
+      },
+      {
+        "sweep": 89,
+        "gap_bound": 1.3752414599680461e-06,
+        "primal": 0.6227480053236546,
+        "retained": 300,
+        "coordinate_visits": 26700,
+        "kkt_violation": 4.077983939768104e-07
+      },
+      {
+        "sweep": 90,
+        "gap_bound": 1.2102233475487085e-06,
+        "primal": 0.6227480053235437,
+        "retained": 300,
+        "coordinate_visits": 27000,
+        "kkt_violation": 3.7219817682759837e-07
+      },
+      {
+        "sweep": 91,
+        "gap_bound": 1.0586166629826637e-06,
+        "primal": 0.6227480053234539,
+        "retained": 300,
+        "coordinate_visits": 27300,
+        "kkt_violation": 3.3707969121499204e-07
+      },
+      {
+        "sweep": 92,
+        "gap_bound": 9.201831011374965e-07,
+        "primal": 0.6227480053233817,
+        "retained": 300,
+        "coordinate_visits": 27600,
+        "kkt_violation": 3.0292587710478713e-07
+      },
+      {
+        "sweep": 93,
+        "gap_bound": 7.945277893967875e-07,
+        "primal": 0.6227480053233233,
+        "retained": 300,
+        "coordinate_visits": 27900,
+        "kkt_violation": 2.701151162604054e-07
+      },
+      {
+        "sweep": 94,
+        "gap_bound": 6.811347231152693e-07,
+        "primal": 0.6227480053232763,
+        "retained": 300,
+        "coordinate_visits": 28200,
+        "kkt_violation": 2.389343459821558e-07
+      },
+      {
+        "sweep": 95,
+        "gap_bound": 5.793974310417321e-07,
+        "primal": 0.6227480053232386,
+        "retained": 300,
+        "coordinate_visits": 28500,
+        "kkt_violation": 2.0959123549213476e-07
+      },
+      {
+        "sweep": 96,
+        "gap_bound": 4.886452784687113e-07,
+        "primal": 0.6227480053232081,
+        "retained": 300,
+        "coordinate_visits": 28800,
+        "kkt_violation": 1.822254032252113e-07
+      },
+      {
+        "sweep": 97,
+        "gap_bound": 4.081658273098235e-07,
+        "primal": 0.6227480053231836,
+        "retained": 300,
+        "coordinate_visits": 29100,
+        "kkt_violation": 1.5691867173706076e-07
+      },
+      {
+        "sweep": 98,
+        "gap_bound": 3.372236659196864e-07,
+        "primal": 0.6227480053231639,
+        "retained": 300,
+        "coordinate_visits": 29400,
+        "kkt_violation": 1.337043692220541e-07
+      },
+      {
+        "sweep": 99,
+        "gap_bound": 2.750760457349701e-07,
+        "primal": 0.6227480053231479,
+        "retained": 300,
+        "coordinate_visits": 29700,
+        "kkt_violation": 1.1257570598638411e-07
+      },
+      {
+        "sweep": 100,
+        "gap_bound": 2.2098572053723976e-07,
+        "primal": 0.622748005323135,
+        "retained": 300,
+        "coordinate_visits": 30000,
+        "kkt_violation": 9.349326055702045e-08
+      },
+      {
+        "sweep": 101,
+        "gap_bound": 1.7702408090538972e-07,
+        "primal": 0.6227480053231245,
+        "retained": 300,
+        "coordinate_visits": 30300,
+        "kkt_violation": 7.639161515166082e-08
+      },
+      {
+        "sweep": 102,
+        "gap_bound": 1.7142884954272588e-07,
+        "primal": 0.622748005323116,
+        "retained": 300,
+        "coordinate_visits": 30600,
+        "kkt_violation": 6.606273766918136e-08
+      },
+      {
+        "sweep": 103,
+        "gap_bound": 1.9637136004122008e-07,
+        "primal": 0.6227480053231091,
+        "retained": 300,
+        "coordinate_visits": 30900,
+        "kkt_violation": 5.8448184632464706e-08
+      },
+      {
+        "sweep": 104,
+        "gap_bound": 2.1359582228890152e-07,
+        "primal": 0.6227480053231036,
+        "retained": 300,
+        "coordinate_visits": 31200,
+        "kkt_violation": 5.1279813381710504e-08
+      },
+      {
+        "sweep": 105,
+        "gap_bound": 2.242369927512654e-07,
+        "primal": 0.6227480053230989,
+        "retained": 300,
+        "coordinate_visits": 31500,
+        "kkt_violation": 4.4592262160580987e-08
+      },
+      {
+        "sweep": 106,
+        "gap_bound": 2.2932782460373766e-07,
+        "primal": 0.6227480053230952,
+        "retained": 300,
+        "coordinate_visits": 31800,
+        "kkt_violation": 3.8405995043955254e-08
+      },
+      {
+        "sweep": 107,
+        "gap_bound": 2.29801505550216e-07,
+        "primal": 0.622748005323092,
+        "retained": 300,
+        "coordinate_visits": 32100,
+        "kkt_violation": 3.272957697225687e-08
+      },
+      {
+        "sweep": 108,
+        "gap_bound": 2.2649474107953852e-07,
+        "primal": 0.6227480053230896,
+        "retained": 300,
+        "coordinate_visits": 32400,
+        "kkt_violation": 2.9953603597476786e-08
+      },
+      {
+        "sweep": 109,
+        "gap_bound": 2.2015195333034506e-07,
+        "primal": 0.6227480053230876,
+        "retained": 300,
+        "coordinate_visits": 32700,
+        "kkt_violation": 2.9631195747059635e-08
+      },
+      {
+        "sweep": 110,
+        "gap_bound": 2.11430228787541e-07,
+        "primal": 0.6227480053230858,
+        "retained": 300,
+        "coordinate_visits": 33000,
+        "kkt_violation": 2.8888783823455277e-08
+      },
+      {
+        "sweep": 111,
+        "gap_bound": 2.0090472064533662e-07,
+        "primal": 0.6227480053230845,
+        "retained": 300,
+        "coordinate_visits": 33300,
+        "kkt_violation": 2.7815146519394318e-08
+      },
+      {
+        "sweep": 112,
+        "gap_bound": 1.8907440900071018e-07,
+        "primal": 0.6227480053230834,
+        "retained": 300,
+        "coordinate_visits": 33600,
+        "kkt_violation": 2.6488172349958816e-08
+      },
+      {
+        "sweep": 113,
+        "gap_bound": 1.763680006565472e-07,
+        "primal": 0.6227480053230823,
+        "retained": 300,
+        "coordinate_visits": 33900,
+        "kkt_violation": 2.4975594696552417e-08
+      },
+      {
+        "sweep": 114,
+        "gap_bound": 1.631499133197155e-07,
+        "primal": 0.6227480053230815,
+        "retained": 300,
+        "coordinate_visits": 34200,
+        "kkt_violation": 2.3335759220810548e-08
+      },
+      {
+        "sweep": 115,
+        "gap_bound": 1.4972615994544231e-07,
+        "primal": 0.6227480053230807,
+        "retained": 300,
+        "coordinate_visits": 34500,
+        "kkt_violation": 2.1618397530454025e-08
+      },
+      {
+        "sweep": 116,
+        "gap_bound": 1.3635011293746344e-07,
+        "primal": 0.6227480053230803,
+        "retained": 300,
+        "coordinate_visits": 34800,
+        "kkt_violation": 1.9865400845142656e-08
+      },
+      {
+        "sweep": 117,
+        "gap_bound": 1.2322806357965454e-07,
+        "primal": 0.6227480053230797,
+        "retained": 300,
+        "coordinate_visits": 35100,
+        "kkt_violation": 1.8111578799218098e-08
+      },
+      {
+        "sweep": 118,
+        "gap_bound": 1.105245106408515e-07,
+        "primal": 0.6227480053230795,
+        "retained": 300,
+        "coordinate_visits": 35400,
+        "kkt_violation": 1.6385392688500477e-08
+      },
+      {
+        "sweep": 119,
+        "gap_bound": 1.0546550063908505e-07,
+        "primal": 0.6227480053230793,
+        "retained": 300,
+        "coordinate_visits": 35700,
+        "kkt_violation": 1.556765223675871e-08
+      },
+      {
+        "sweep": 120,
+        "gap_bound": 1.02359830608643e-07,
+        "primal": 0.622748005323079,
+        "retained": 300,
+        "coordinate_visits": 36000,
+        "kkt_violation": 1.4976724985182877e-08
+      },
+      {
+        "sweep": 121,
+        "gap_bound": 9.816470473960131e-08,
+        "primal": 0.6227480053230787,
+        "retained": 300,
+        "coordinate_visits": 36300,
+        "kkt_violation": 1.4250097546408824e-08
+      },
+      {
+        "sweep": 122,
+        "gap_bound": 9.314708436515596e-08,
+        "primal": 0.6227480053230786,
+        "retained": 300,
+        "coordinate_visits": 36600,
+        "kkt_violation": 1.3424412442786249e-08
+      },
+      {
+        "sweep": 123,
+        "gap_bound": 8.753842068384251e-08,
+        "primal": 0.6227480053230784,
+        "retained": 300,
+        "coordinate_visits": 36900,
+        "kkt_violation": 1.2531210305533058e-08
+      },
+      {
+        "sweep": 124,
+        "gap_bound": 8.153741326776866e-08,
+        "primal": 0.6227480053230785,
+        "retained": 300,
+        "coordinate_visits": 37200,
+        "kkt_violation": 1.1597354729331322e-08
+      },
+      {
+        "sweep": 125,
+        "gap_bound": 7.531277730776853e-08,
+        "primal": 0.6227480053230783,
+        "retained": 300,
+        "coordinate_visits": 37500,
+        "kkt_violation": 1.0645450174151527e-08
+      },
+      {
+        "sweep": 126,
+        "gap_bound": 6.900601464983613e-08,
+        "primal": 0.6227480053230783,
+        "retained": 300,
+        "coordinate_visits": 37800,
+        "kkt_violation": 9.694259041348463e-09
+      },
+      {
+        "sweep": 127,
+        "gap_bound": 6.273409040500731e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 38100,
+        "kkt_violation": 8.759098092669948e-09
+      },
+      {
+        "sweep": 128,
+        "gap_bound": 5.659203736249075e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 38400,
+        "kkt_violation": 7.852222295989808e-09
+      },
+      {
+        "sweep": 129,
+        "gap_bound": 5.065542423089763e-08,
+        "primal": 0.6227480053230782,
+        "retained": 300,
+        "coordinate_visits": 38700,
+        "kkt_violation": 6.983186459641466e-09
+      },
+      {
+        "sweep": 130,
+        "gap_bound": 4.4982698552690913e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 39000,
+        "kkt_violation": 6.159184259835193e-09
+      },
+      {
+        "sweep": 131,
+        "gap_bound": 3.961736719660681e-08,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 39300,
+        "kkt_violation": 5.3853640505363565e-09
+      },
+      {
+        "sweep": 132,
+        "gap_bound": 3.459002342940719e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 39600,
+        "kkt_violation": 4.665119360258707e-09
+      },
+      {
+        "sweep": 133,
+        "gap_bound": 2.9920216389482745e-08,
+        "primal": 0.6227480053230778,
+        "retained": 300,
+        "coordinate_visits": 39900,
+        "kkt_violation": 4.000354533739703e-09
+      },
+      {
+        "sweep": 134,
+        "gap_bound": 2.5618148287206074e-08,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 40200,
+        "kkt_violation": 3.3917269201544364e-09
+      },
+      {
+        "sweep": 135,
+        "gap_bound": 2.1686224771652797e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 40500,
+        "kkt_violation": 2.838864344989478e-09
+      },
+      {
+        "sweep": 136,
+        "gap_bound": 1.812042879438641e-08,
+        "primal": 0.6227480053230778,
+        "retained": 300,
+        "coordinate_visits": 40800,
+        "kkt_violation": 2.340558101499024e-09
+      },
+      {
+        "sweep": 137,
+        "gap_bound": 1.5218019638898983e-08,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 41100,
+        "kkt_violation": 1.9319782440518907e-09
+      },
+      {
+        "sweep": 138,
+        "gap_bound": 1.385703942390187e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 41400,
+        "kkt_violation": 1.7184778045020721e-09
+      },
+      {
+        "sweep": 139,
+        "gap_bound": 1.25211895958129e-08,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 41700,
+        "kkt_violation": 1.5159972235889718e-09
+      },
+      {
+        "sweep": 140,
+        "gap_bound": 1.1227345527575627e-08,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 42000,
+        "kkt_violation": 1.325806887886305e-09
+      },
+      {
+        "sweep": 141,
+        "gap_bound": 9.988639007333826e-09,
+        "primal": 0.6227480053230778,
+        "retained": 300,
+        "coordinate_visits": 42300,
+        "kkt_violation": 1.148746708867776e-09
+      },
+      {
+        "sweep": 142,
+        "gap_bound": 8.814927226106702e-09,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 42600,
+        "kkt_violation": 9.852905089036135e-10
+      },
+      {
+        "sweep": 143,
+        "gap_bound": 7.713228316746253e-09,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 42900,
+        "kkt_violation": 8.356050365532219e-10
+      },
+      {
+        "sweep": 144,
+        "gap_bound": 6.688128734170257e-09,
+        "primal": 0.622748005323078,
+        "retained": 300,
+        "coordinate_visits": 43200,
+        "kkt_violation": 8.230390119434716e-10
+      },
+      {
+        "sweep": 145,
+        "gap_bound": 5.742148837636361e-09,
+        "primal": 0.6227480053230781,
+        "retained": 300,
+        "coordinate_visits": 43500,
+        "kkt_violation": 8.117086933157047e-10
+      }
+    ]
+  }
+]
